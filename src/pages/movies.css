@@ -1,0 +1,8 @@
+.movies{
+    text-align: center;
+}
+.movies img{
+    height: 17rem;
+    width: 15rem;
+    margin: 1rem 0;
+}
